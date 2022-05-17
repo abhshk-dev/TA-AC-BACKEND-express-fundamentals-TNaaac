@@ -3,7 +3,7 @@ writeCode
 Create a basic server using express and handle 2 routes
 
 - GET request on '/'
-- GET request on '/about'
+- GET  request on '/about'
 
 - create a error handler middleware which should be able to throw 404 (page not found) error when a request is made on any other route which does not match above 2 routes.
 
